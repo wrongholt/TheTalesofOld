@@ -11450,6 +11450,10 @@ header.masthead .masthead-heading {
   display: block;
   margin: 0 auto;
 }
+#portfolio .portfolio-item .portfolio-link img {
+ max-height:300px;
+ max-width:300px;  
+}
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
   position: absolute;
